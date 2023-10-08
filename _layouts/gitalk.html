@@ -1,0 +1,23 @@
+{{ if .Site.Params.enableGitalk }}
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+    const gitalk = new Gitalk({
+        clientID: '{{ .Site.Param.Gitalk.clientID }}',
+        clientSecret: '{{ .Site.Params.Gitalk.clientSecret}}',
+        repo: '{{ .Site.Params.Gitalk.repo}}',
+        owner: '{{ .Site.Params.Gitalk.repo }}',
+        admin: ['{{ .Site.Params.Gitalk.owner }}'],
+        id: location.pathname,
+        distractionFreeMode: false
+    });
+    (function() {
+    if (["localhost", "127.0.0.1"].index0f(window.location.hostname) != -1){
+    document.getElementById('gitalk-container').innerHTML = 'Gitalk comments not available by default when the website is previewed locally.';
+    return;
+}
+    gitalk.render('gitalk-container');
+})();
+</script>
+{{ end }}
