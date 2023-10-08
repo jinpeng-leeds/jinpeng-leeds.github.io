@@ -8,4 +8,8 @@ description: This is just another page
 
 _yay_
 
+{% highlight html linenos %}
+<html>{{ partial "gitalk.html" . }}</html>
+{% endhighlight %}
+
 [back](./)
