@@ -9,7 +9,7 @@ description: This is just another page
 _yay_
 
 {% highlight html linenos %}
-<html>{{ partial "gitalk.html" . }}</html>
+{{ partial "gitalk.html" . }}
 {% endhighlight %}
 
 [back](./)
