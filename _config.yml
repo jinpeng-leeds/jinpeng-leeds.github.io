@@ -4,6 +4,9 @@ to achieve social and governance goals. Themes on digital communication informat
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+zip_url: http://example.com/download.zip
+another_url: another value
 ---
 layout: default
 comments: true
