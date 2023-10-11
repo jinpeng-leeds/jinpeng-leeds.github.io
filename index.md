@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+*Newest*, _11/10/2023_
 
 # The Underlying Logic on Information Design Engaging Participation
 
