@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Participation Wakener
+
 # The Underlying Logic on Information Design Engaging Participation
 
 [From offline to online: Multimodal progress](./another-page.html).
