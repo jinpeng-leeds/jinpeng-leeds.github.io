@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Participation Wakener
+# Participation Wake
 
 # The Underlying Logic on Information Design Engaging Participation
 
