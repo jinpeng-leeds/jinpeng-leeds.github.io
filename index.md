@@ -14,15 +14,13 @@ When art developed to top: The basic judgement on information design and design 
 
 # Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
 
-Meta date from questionnaires(ethics clearance)
+Meta data from questionnaires(ethics clearance)
 
 Comparing various current evalution ways from related disciplines 
 
 # Header 2
 
 > This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 # Header 3
 
