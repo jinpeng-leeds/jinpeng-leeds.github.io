@@ -1,12 +1,17 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: From offline to online: multimodal progress
+description: Online participation provides convenience meanwhile making participants have less patience
 ---
 
-## Welcome to another page
+# Online, Offline, Communication Task, Design Needing
 
-_yay_
+Viewers commonly have no worriedly and impatient feeling when they face traditional paper media. The online interface lets the audience feel uncertain and easy to change, who tends to catch key contents quickly and slippage to the next page. The habit experience brings fixed effects on people’s minds. Subramanian (2018) mentions network makes common people have short attention span in media content. The short attention span leads to quick social rhythm today in some aspects (Firth et al., 2016).
+
+References
+Firth, J., Torous, J., Stubbs, B., Firth, J. A., Steiner, G. Z., Smith, L., and Sarris, J. 2019. The “online brain”: how the Internet may be changing our cognition. _World Psychiatry_, 18(2), pp.119-129.
+Subramanian, K. R. 2018. Myth and mystery of shrinking attention span. International Journal of Trend in Research and Development, 5(1), pp.1-6.
+
 
 <div id="disqus_thread"></div>
 <script>
