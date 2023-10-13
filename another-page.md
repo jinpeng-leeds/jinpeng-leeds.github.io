@@ -6,7 +6,7 @@ description: Online participation provides convenience meanwhile making particip
 
 Online participation provides convenience meanwhile making participants have less patience.
 
-Viewers commonly have no worriedly and impatient feeling when they face traditional paper media. The online interface lets the audience feel uncertain and easy to change, who tends to catch key contents quickly and slippage to the next page. The habit experience brings fixed effects on people’s minds. Subramanian (2018) mentions network makes common people have short attention span in media content. The short attention span leads to quick social rhythm today in some aspects (Firth et al., 2016).
+Viewers commonly have no worried and impatient emotion when they face traditional paper or other offline media. The online interface lets the audience feel uncertain and easy to change, who tends to catch key contents quickly and slip to the next page. The habit experience brings fixed effects on people’s minds. Subramanian (2018) mentions network makes common people have short attention span in media content. The short attention span leads to quick social rhythms today in some aspects (Firth et al., 2016).
 
 References
 
