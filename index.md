@@ -2,9 +2,11 @@
 layout: default
 ---
 
-*Newest*, _13/10/2023_
+*Newest*, _19/10/2023_
 
 # The Underlying Logic on Information Design Engaging Participation
+
+[Abstract Draft](./another-page3.html).
 
 [From offline to online: Multimodal progress](./another-page.html).
 
