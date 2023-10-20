@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From offline to online
+title: From Offline to Online
 description:
 ---
 
@@ -13,6 +13,7 @@ Viewers commonly have no worried and impatient emotion when they face traditiona
 References
 
 Firth, J., Torous, J., Stubbs, B., Firth, J. A., Steiner, G. Z., Smith, L., and Sarris, J. 2019. The “online brain”: how the Internet may be changing our cognition. _World Psychiatry_, 18(2), pp.119-129.
+
 Subramanian, K. R. 2018. Myth and mystery of shrinking attention span. International Journal of Trend in Research and Development, 5(1), pp.1-6.
 
 
