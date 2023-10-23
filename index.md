@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*Newest*, _19/10/2023_
+*Newest*, _23/10/2023_
 
 # The Underlying Logic on Information Design Engaging Participation
 
@@ -23,7 +23,9 @@ Comparing various current evalution ways from related disciplines
 How to design the civic engagement questionnaire
 
 > Research Objectives and Questions
+
 > Existing Literature
+
 > Question Types
 
 # Participatory Methodologies: Parametric Design Patterns & Participation Modulers
