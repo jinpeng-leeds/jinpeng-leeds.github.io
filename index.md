@@ -20,7 +20,7 @@ Meta data from questionnaires (ethics clearance)
 
 Comparing various current evalution ways from related disciplines
 
-How to design the civic engagement questionnaire
+How to design a civic engagement questionnaire
 
 > Research Objectives and Questions
 
