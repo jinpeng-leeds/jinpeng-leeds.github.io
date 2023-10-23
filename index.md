@@ -16,13 +16,21 @@ When art developed to top: The basic judgement on information design and design 
 
 # Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
 
-Meta data from questionnaires(ethics clearance)
+Meta data from questionnaires (ethics clearance)
 
-Comparing various current evalution ways from related disciplines 
+Comparing various current evalution ways from related disciplines
 
-# Header 2
+How to design the civic engagement questionnaire
 
-> This is a blockquote following a header.
+> Research Objectives and Questions
+> Existing Literature
+> Question Types
 
-# Header 3
+# Participatory Methodologies: Parametric Design Patterns & Participation Modulers
+
+Information State and groups
+
+Infomation Design Patterns
+
+# Design Toolkit
 
