@@ -8,7 +8,7 @@ layout: default
 
 [Abstract Draft](./another-page3.html).
 
-[From offline to online: Multimodal progress](./another-page.html).
+[From offline to online: Blended and Multimodal progress](./another-page.html).
 
 [Academic and professional words from other displines applying in PW](./another-page2.html).
 
