@@ -6,13 +6,13 @@ description:
 
 # Abstract
 
-This research project explores the visualisation and organisation of the information design about how to drive social engagement, for supporting decision-making to achieve society and governance goals.
+This project delves into the visualisation and organisation of information design with the aim of bolstering social engagement to support decision-making for societal and governance objectives.
 
-Original contributions advance an innovative design framework related to information-driven design and UX, which includes quantifications assessment of participation behavior, and parametric model of participatory design. The work further promotes relative research transferring from design to design science. Contributions also imply possibilities and evidence that the rights and interests of social design are entrusted to citizens, which means lower barriers to accomplishing positive citizen participation.
+The study presents innovative contributions by constructing a novel design framework that centers on information-driven design and user experience (UX), which encompasses quantitative assessment of engagement behavior and parametric models for participatory design. The work also underscores the transfer of relevant knowledge from design practices to the domain of design science. Notably, contributions imply the potential to entrust the rights and interests of social design to citizens, thereby lowering the barriers to effective citizen participation.
 
-The research argues core points are the visual and organized methods of information elements pushing incentive process, and making sure these forms are effective and optimizing them. The information parts are viewed as states and groups to make sense. Therefore derive patterns and modules creating design models. As helping via label and dynamic parameter sets, the process of incentive would be accomplished and the barrier of participatory design related to information would be lower than the current methods.
+The central tenets of research revolve around the visual and organisational methods employed in shaping the incentive process through information elements, and emphasize the effectiveness and optimization of these forms. Information components are regarded as states and groups to derive meaningful patterns and modules that underpin the development of design models. Facilitating this process through appropriate labeling and dynamic parameter sets achieves effective incentives, ultimately reducing the barriers associated with participatory design in the realm of information.
 
-The methodology is to use innovative design toolkits to argue closed-loopy. When the quantify tool (based on cases and sources) evaluating the engagement behavior is fully supported, the feasibility data imports the parameterizing model（tool）to experiment and analyze. Through testing and comparing repeatedly, obtain optimal or improved (visualization) solutions.
+The research methodology involves the utilization of systemic design toolkits to support a closed-loop approach. Leveraging quantitative tools based on case studies and reliable sources, the study evaluates engagement behavior comprehensively. Subsequently, projects employ parameterization models to experiment and analyze the feasibility of various approaches. Through iterative testing and comparative analyses, aims endeavor to identify optimal or improved visualisation solutions.
 
 
 [<Back](./)
