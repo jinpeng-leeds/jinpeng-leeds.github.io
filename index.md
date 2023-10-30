@@ -10,7 +10,7 @@ layout: default
 
 [From offline to online: Blended and multimodal process](./another-page.html).
 
-[Academic and professional words from other displines applying in PW](./another-page2.html).
+[Academic and professional words from different displines applying in PW](./another-page2.html).
 
 [Foundational Analysis of Information Design and Design Science](./another-page4.html).
 
