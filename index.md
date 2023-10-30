@@ -2,13 +2,13 @@
 layout: default
 ---
 
-*Newest*, _23/10/2023_
+*Newest*, _28/10/2023_
 
 # The Underlying Logic on Information Design Engaging Participation
 
 [Abstract Draft](./another-page3.html).
 
-[From offline to online: Blended and Multimodal progress](./another-page.html).
+[From offline to online: Blended and multimodal process](./another-page.html).
 
 [Academic and professional words from other displines applying in PW](./another-page2.html).
 
