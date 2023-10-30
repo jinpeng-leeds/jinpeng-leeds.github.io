@@ -1,10 +1,10 @@
 ---
 layout: default
 title: From Offline to Online
-description:
+description: Online participation provides convenience meanwhile making participants have less patience.
 ---
 
-# From offline to online: Multimodal progress
+# From offline to online: Blended and multimodal progress
 
 Online participation provides convenience meanwhile making participants have less patience.
 
