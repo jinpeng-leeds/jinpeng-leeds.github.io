@@ -12,7 +12,7 @@ layout: default
 
 [Academic and professional words from other displines applying in PW](./another-page2.html).
 
-When art developed to top: The basic judgement on information design and design science
+[Foundational Analysis of Information Design and Design Science](./another-page2.html).
 
 # Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
 
