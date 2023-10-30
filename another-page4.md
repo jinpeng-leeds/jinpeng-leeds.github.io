@@ -4,4 +4,5 @@ title: Glossary of Terms
 description: 
 ---
 
-# Academic and professional words from other displines applying in PW
+# Foundational Analysis of Information Design and Design Science
+
