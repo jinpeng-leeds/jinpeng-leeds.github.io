@@ -6,13 +6,13 @@ layout: default
 
 # The Underlying Logic on Information Design Engaging Participation
 
-[Abstract Draft](./another-page3.html).
+[Abstract Draft](./another-page3.html)
 
-[From Offline to Online: Blended and Mltimodal Process](./another-page.html).
+[From Offline to Online: Blended and Mltimodal Process](./another-page.html)
 
-[Academic and Professional Words from Different Displines Applying in PW](./another-page2.html).
+[Academic and Professional Words from Different Displines Applying in PW](./another-page2.html)
 
-[Foundational Analysis of Information Design and Design Science](./another-page4.html).
+[Foundational Analysis of Information Design and Design Science](./another-page4.html)
 
 # Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
 
