@@ -2,25 +2,25 @@
 layout: default
 ---
 
-*Newest*, _28/10/2023_
+*Newest*, _29/10/2023_
 
 # The Underlying Logic on Information Design Engaging Participation
 
 [Abstract Draft](./another-page3.html).
 
-[From offline to online: Blended and multimodal process](./another-page.html).
+[From Offline to Online: Blended and Mltimodal Process](./another-page.html).
 
-[Academic and professional words from different displines applying in PW](./another-page2.html).
+[Academic and Professional Words from Different Displines Applying in PW](./another-page2.html).
 
 [Foundational Analysis of Information Design and Design Science](./another-page4.html).
 
 # Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
 
-Meta data from questionnaires (ethics clearance)
+Meta Data from Questionnaires (ethics clearance)
 
-Comparing various current evalution ways from related disciplines
+Comparing Various Current Evalution Ways from Related Disciplines
 
-How to design a civic engagement questionnaire
+How to Design a Civic Engagement Questionnaire
 
 > Research Objectives and Questions
 
@@ -30,9 +30,9 @@ How to design a civic engagement questionnaire
 
 # Participatory Methodologies: Parametric Design Patterns & Participation Modulers
 
-Information State and groups
+Information State and Groups
 
 Infomation Design Patterns
 
-# Design Toolkit
+# Design Toolkit & Experimental Simulation
 
