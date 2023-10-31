@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossary of Terms
+title: Design Science Research (DSR)
 description: 
 ---
 
