@@ -16,7 +16,7 @@ layout: default
 
 # Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
 
-Meta Data from Questionnaires (ethics clearance)
+Meta Data from Questionnaires (Ethics Clearance)
 
 Comparing Various Current Evalution Ways from Related Disciplines
 
