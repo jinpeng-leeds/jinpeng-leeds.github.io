@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary of Terms
-description: 
+description: Design→Information→Civic→Engagement
 ---
 
 # Academic and professional words from other displines applying in PW
@@ -14,7 +14,7 @@ And Information design, at its core, is about translating complex information in
 Interaction design has a strong relation to many academic disciplines. For instance, human-computer interaction，computer science，information systems，and software engineering. They construct and develop digital material contribute to Interaction design.
 And UX design often draws from a variety of academic disciplines to understand user behavior and improve the design of products, services, and systems.
 
-A/B testing, Accessibility, Adaptive Design, Affordance, Agile, API
+Accessibility, Adaptive Design, Affordance, Agile, API
 Back-End Development, Backlog, Blank Slate, Breadcrumb,Bug
 Cache, Call To Action (CTA), Card Sorting, Chatbot, CMS (software), CRM (software)
 Data Science, Deliverable,Design Process, Design Sprint, Design Thinking
