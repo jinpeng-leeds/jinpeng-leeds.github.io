@@ -4,7 +4,7 @@ title: From Offline to Online
 description: Online participation provides convenience meanwhile making participants have less patience.
 ---
 
-# From offline to online: Blended and multimodal progress
+# From Offline to Online: Blended and Multimodal Progress
 
 Surveys mode mixed internet, phone, and mail (Dillman et al., 2014).
 
