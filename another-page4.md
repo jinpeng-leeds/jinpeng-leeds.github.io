@@ -21,10 +21,15 @@ This paradigm, with roots in engineering and artificial sciences, is a problem-s
 Designing useful artifacts in the Information Systems field is essential for solving complex problems and are applicable in various domains.
 
 In the past 20 years, over 200 articles, most research objects have been aimed at designers and developers. From 2016, the direction began to toward the common participators in projects. The function of leading and guiding conducted via designers is also emphasized by Hevner. The strength of citizen design is quite stronger in effectiveness. Designers consider how to motivate the citizens' potential ability to design, which is more worthy than doing design by themselves. This work mixed many kinds of area knowledge in one project as well the same time.
+
 For example：
+
 Patient health locus of control: the design of information systems for patient-provider interactions（2022）
+
 Citizen Data Scientist: A Design Science Research Method for the Conduct of Data Science Projects （2019）
+
 Capturing User Generated Video Content in Online Social Networks （2018）
+
 The information is more closely like the original state of text, image, and graphic organising. The brain of a human is like a computer. The eyes catch and receive the information from out-body then transfer it to the brain and process. People have emotions and feelings. The processing, which is easily influenced by aspects of mental and experience and so on, is different from the machine. That's why the project needs to conduct the experimental simulation. The original sources from informatics science are more suitable than information design. It changes the design methodologies a lot.
 
 
