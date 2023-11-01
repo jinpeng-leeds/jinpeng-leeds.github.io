@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Glossary of Terms
-description: Design→Information→Civic→Engagement
+description: Design→Information→Civis→Engagement
 ---
 
-# Academic and professional words from other displines applying in PW
+# Academic and Professional Words from Other displines applying in PW
 
 <img width="748" alt="Screenshot 2023-10-21 at 01 31 47" src="https://github.com/jinpeng-leeds/jinpeng-leeds.github.io/assets/146876755/075a6bf1-a7e0-4afa-9cf9-03a1a5c960aa">
 
