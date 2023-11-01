@@ -14,7 +14,7 @@ layout: default
 
 [Foundational Analysis of Information Design and Design Science](./another-page4.html)
 
-# Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualization
+# Assessment Methodologies: Quantifying Participation Behavior & Indicators Visualisation
 
 Meta Data from Questionnaires (Ethics Clearance)
 
