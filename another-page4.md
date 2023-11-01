@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Design Science Research (DSR)
-description: 
+description: “The values of design science research should be made as explicit as possible.”
 ---
 
 # Foundational Analysis of Information Design and Design Science
 
 _The article is based on Dr. Alan Hevner's series of research_
 
-**_Design Science in Information Systems Research_**
+**_Design Science in Information Systems Research(2004)_**
 
 Two paradigms crucial to acquiring knowledge in the Information Systems field: behavioral science and design science.
 
