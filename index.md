@@ -6,7 +6,7 @@ layout: default
 
 # The Underlying Logic on Information Design Engaging Participation
 
-[Abstract Draft](./another-page3.html)
+[Introduction Draft](./another-page3.html)
 
 [From Offline to Online: Blended and Mltimodal Process](./another-page.html)
 
