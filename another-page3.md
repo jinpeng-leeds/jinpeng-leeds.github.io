@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Abstract Draft
+title: Introduction
 description: 
 ---
 
-# Abstract
+# Introduction
 
 This project delves into the visualisation and organisation of information design with the aim of bolstering social engagement to support decision-making for societal and governance objectives.
 
