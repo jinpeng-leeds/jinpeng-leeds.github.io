@@ -34,6 +34,23 @@ Acceptability (Trusted and Cautious) means attitude toward the different medium.
 
 Awarenes (Conscious and Ignorant) means communication strategy and methedologies.
 
+**B**
+
+Objects: Secondary School Students (also available for University/College)
+
+Aims: For Educational and Psychological Practitioners to Better Understand and Address their Students' Motivation and Engagement - and for Researchers to Include Valid and Reliable Measurement in their Research
+
+Motivation Quotients (MQ) Factors:
+
+Adaptive Motivation or Adaptive Cognition includes belief (mastery orientation), value (valuing), learn([self-efficacy](https://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-III.pdf)).
+
+Adaptive Engagement or Adaptive Behavior includes persist (persistence), manage (task management), plan (planning).
+
+Maladaptive Engagement or Maladaptive Behavior includes diseng (disengagement), sabot ([self-handicapping](https://psycnet.apa.org/record/2013-16422-009)).
+
+Maladaptive Motivation or Maladaptive Cognition includes anxiety, avoid (failure avoidance), control (uncertain control).
+
+
 **Supports from Psychology**
 
 
