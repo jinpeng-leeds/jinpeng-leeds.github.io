@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evaluation Ways and Indicators
-description: “Visualizing the Motivation and Engagement Assessment, Questionnaire Goals”
+description: Visualising the Motivation and Engagement Assessment, Questionnaire Goals
 ---
 
 # The Comparison on Evaluation Ways between The Motivation and Engagement Wheel, Dimensions Estimation Framework, and Dimension Model of Citizens' Participation
