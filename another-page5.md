@@ -50,6 +50,16 @@ Maladaptive Engagement or Maladaptive Behavior includes diseng (disengagement), 
 
 Maladaptive Motivation or Maladaptive Cognition includes anxiety, avoid (failure avoidance), control (uncertain control).
 
+_For understanding the MQ Factors, there are four validational correlates to fully explian them_
+
+Engagement (adaptive cognition r= .65/ adaptive behavior r= .58/ maladaptive r=-.20/ maladaptive behavior r=-.65) means tripartite engagement model and includes cognitive, behavioral, and emotional engagement.
+
+Buoyancy (adaptive cognition r= .31/ adaptive behavior r= .39/ maladaptive r=-.74/ maladaptive behavior r=-.33) meants the ability facing the studying difficulty.
+
+Achievement (adaptive cognition r= .15/ adaptive behavior r= .09/ maladaptive r=-.14/ maladaptive behavior r=-.20) means the actual performance in different courses.
+
+Adaptability meants the ability facing uncertainty and change in the studying process.
+
 
 **Supports from Psychology**
 
