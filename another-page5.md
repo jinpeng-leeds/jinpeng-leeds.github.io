@@ -60,6 +60,25 @@ Achievement (adaptive cognition r= .15/ adaptive behavior r= .09/ maladaptive r=
 
 Adaptability meants the ability facing uncertainty and change in the studying process.
 
+**C**
+
+Objects: The Effect on Citizen Participation
+
+Aims: Develop Responsive Smart Cities with Self-organisation Approaches via Citizens' Participation
+
+Online Participation Methods:
+
+Online Platforms
+
+Open Data
+
+Direct Interaction
+
+Living Lab
+
+Citizen Participation
+
+Self-organisation
 
 **Supports from Psychology**
 
