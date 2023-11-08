@@ -83,7 +83,7 @@ Self-organisation
 
 **Comparing and Final Indicators**
 
-Choose A from three evaluation frameworks as a basic assessment tool to develop. Compared with B, the form is easy-understanding and concise, because it fuses the positive and negative factors into one visualising information chart as a whole skillfully. Model C compares the different online channels and providing quantify method focusing on relevant references. The Critical Appraisal Skills Program (CASP) is used. Some references was selected finally.
+Choose A from three evaluation frameworks as a basic assessment tool to develop. Compared with B, the form is easy-understanding and concise, because it fuses the positive and negative factors into one visualising information chart as a whole skillfully. Model C compares the different online channels and provides quantified methods focusing on relevant references. The Critical Appraisal Skills Program (CASP) is used. Some references are selected finally.
 
 <img width="300" alt="Screenshot 2023-11-08 at 13 45 13" src="https://github.com/jinpeng-leeds/jinpeng-leeds.github.io/assets/146876755/2ef49590-9d90-4754-b8d2-cc0e31f179e5">
 
